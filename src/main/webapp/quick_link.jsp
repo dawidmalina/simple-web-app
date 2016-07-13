@@ -2,11 +2,11 @@
 <body>
 <h2>SimpleWebApp!</h2>
 <p>Your current session id: <%= session.getId() %></p>
+<b>That was quick, isn't it?</b>
 
 <ul>
-  <li><a href="quick_link.jsp">Quick Link</a></li>
-  <li><a href="slow_link.jsp">Slow Link</a></li>
-</ul> 
+  <li><a href="index.jsp">Home</a></li>
+</ul>
 
 </body>
 </html>
